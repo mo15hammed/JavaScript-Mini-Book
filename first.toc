@@ -1,0 +1,4 @@
+\contentsline {chapter}{\numberline {1}Introduction}{v}
+\contentsline {section}{\numberline {1.1}History of JavaScript}{v}
+\contentsline {section}{\numberline {1.2}What is JavaScript?}{v}
+\contentsline {section}{\numberline {1.3}Why JavaScript}{v}
