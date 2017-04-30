@@ -1,9 +1,12 @@
 ﻿JavaScript Mini-Book For Absolute Beginners.
 
 
--First Chapter   : Introduction.\ 
+-First Chapter   : Introduction.
+
 -Second Chapter  : Numbers.
+
 -Third Chapter   : Strings.
+
 -Forth Chapter   : Booleans.
 -Fifth Chapter   : Variables.
 -Sixth Chapter   : Functions.
