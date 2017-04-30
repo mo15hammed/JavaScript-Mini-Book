@@ -8,9 +8,16 @@
 -Third Chapter   : Strings.
 
 -Forth Chapter   : Booleans.
+
 -Fifth Chapter   : Variables.
+
 -Sixth Chapter   : Functions.
+
 -Seventh Chapter : Conditionals.
+
 -Eighth Chapter  : Arrays.
+
 -Ninth Chapter   : Objects.
+
 -Tenth Chapter   : Outro.
+
